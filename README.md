@@ -61,7 +61,7 @@ traffic-law-wiki/
 1. 將本專案完整推送至 GitHub 儲存庫（例如 `traffic-law-wiki`）。
 2. 專案根目錄已內建 `.nojekyll` 空檔案，可確保 GitHub Pages 不會啟動 Jekyll 編譯，直接發布所有靜態資源。
 3. 前往 GitHub 儲存庫的 **Settings** ＞ **Pages**，於 **Build and deployment** 選擇 **Deploy from a branch**，分支選擇 `main`（或 `master`）及 `/ (root)` 目錄並儲存。
-4. 部署完成後，即可透過 `https://<您的GitHub帳號>.github.io/traffic-law-wiki/` 線上瀏覽首頁，或透過 `https://<您的GitHub帳號>.github.io/traffic-law-wiki/articles/art-44/` 直接存取單一條文頁面。
+4. 部署完成後，即可透過 `https://tony30302.github.io/traffic-law-wiki/` 線上瀏覽首頁，或透過 `https://tony30302.github.io/traffic-law-wiki/articles/art-44/` 直接存取單一條文頁面。
 
 ---
 
